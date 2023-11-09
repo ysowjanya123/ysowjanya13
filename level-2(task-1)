@@ -1,0 +1,86 @@
+HTML CODE:-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admiration Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Admiring [Person's Name]</h1>
+    </header>
+
+    <section id="introduction">
+        <p>Introduce the person you admire and why you find them inspiring.</p>
+    </section>
+
+    <section id="qualities">
+        <h2>Admirable Qualities</h2>
+        <p>List some of the qualities that make this person special to you.</p>
+    </section>
+
+    <section id="images">
+        <h2>Gallery</h2>
+        <img src="image1.jpg" alt="Description of Image 1">
+        <img src="image2.jpg" alt="Description of Image 2">
+        <!-- Add more images and descriptions as needed -->
+    </section>
+
+    <footer>
+        <p>Created with admiration by [Your Name]</p>
+    </footer>
+</body>
+</html>
+
+
+
+CSS CODE:-
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+section {
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #333;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
